@@ -42,7 +42,6 @@ Execute the programs and publish them.
         }
     </style>
 </head>
-
 <body>
     <img src="{%static 'images/map.png' %}" width="800px" usemap="#map" onmousemove="coordinate(event)">
     <map name="map">
